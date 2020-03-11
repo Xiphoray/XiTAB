@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "XiTAB",
+    "version": "1.0.0",
+    "description": "clear new tab",
+    "chrome_url_overrides": {
+        "newtab": "xitab.html"
+    },
+    "content_security_policy":"script-src 'self' https://bing.ioliu.cn 'unsafe-eval';object-src 'self'",
+    "icons":{
+        "128": "img/logo-128.png",
+        "16": "img/logo-16.png",
+        "48": "img/logo-48.png"
+    },
+    "browser_action":{
+        "default_title":"XiTab gives you a lovely day!"
+    },
+    "permissions": ["downloads","downloads.shelf","unlimitedStorage","https://bing.ioliu.cn/*","storage"]
+
+}
