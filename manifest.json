@@ -15,6 +15,6 @@
     "browser_action":{
         "default_title":"XiTab gives you a lovely day!"
     },
-    "permissions": ["downloads","downloads.shelf","unlimitedStorage","https://bing.ioliu.cn/*","storage"]
+    "permissions": ["downloads","downloads.shelf","unlimitedStorage","https://bing.ioliu.cn/*","geolocation"]
 
 }
