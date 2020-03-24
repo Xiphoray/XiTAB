@@ -9,10 +9,20 @@ Update the realtime weather in each ten minutes.
 
 Custom the location of weather is allowable.
 
+
+
+[Chrome 商店下载](https://chrome.google.com/webstore/detail/xitab/cjmbligkncaboobjpgeghakofokbpbjm)
+
+
+
+[压缩包下载](https://github.com/Xiphoray/XiTAB/releases)
+
+
+
 ![img](https://github.com/Xiphoray/XiTAB/blob/master/image/pic.jpg)
 ![img](https://github.com/Xiphoray/XiTAB/blob/master/image/pic1.jpg)
 
-[下载 Download](https://github.com/Xiphoray/XiTAB/releases)
+
 
 ### 更新：
 #### V1.0.0
