@@ -38,6 +38,8 @@ Custom the location of weather is allowable.
 
 
 ### 使用方法：
+直接 Chrome 应用商店下载；
+or
 1. 解压压缩包至目标路径；
 2. Chrome 扩展打开开发者模式；
 3. 使用「加载已解压的扩展程序」打开目标文件夹。
