@@ -49,7 +49,7 @@ function getWeather(){
 
 function getPic(){
     if(Date.parse(new Date()) - localStorage.getItem("savePtime") > 60*60*1000){
-        $.ajax({url:'https://bing.ioliu.cn/v1/rand?w=1920&h=1080',
+        $.ajax({url:'https://bing.ioliu.cn/v1/rand?w=1920&h=1200',
             dataType:"jsonp",
             jsonp:"callback",
             jsonpCallback:"jsonCallback",
